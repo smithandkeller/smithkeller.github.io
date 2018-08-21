@@ -1,0 +1,117 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+		<title>Find the Greater Good</title>
+		<meta name="description" content="Find the Greater Good">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="../favicon.ico" />
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+		<link rel="stylesheet" href="../css/master.css">
+		<link rel="stylesheet" href="../css/profile.css">
+	</head>
+
+	<body>
+
+		<div class="navigation">
+			<div class="logo">
+				<img src="../images/gg-logo.png" alt="Find the Greater Good">
+			</div>
+			<div class="menu big-menu">
+				<a href="../directory.html"><button class="btn btn-outline-success" type="button"><i class="fas fa-angle-double-left"></i> Back to Directory</button></a>
+			</div>
+			<div class="menu small-menu">
+				<a href="../directory.html"><button class="btn btn-outline-success" type="button"><i class="fas fa-angle-double-left"></i></button></a>
+			</div>
+		</div>
+
+		<div class="company-detail">
+			<div class="detail-container col-md-8 offset-md-2 row">
+				<div class="col-md-3 logo">
+          <!-- Save the company logo image into the /images folder
+             then update the url below with that image url -->
+					<img src="../images/clients/STOCKIMAGE.png" alt="">
+				</div>
+				<div class="col-md-9">
+					<div class="name">COMPANY NAME</div>
+					<div class="detail">
+						<span class="title">Location:</span>
+						<span class="value">COMPANY ADDRESS</span>
+					</div>
+					<div class="detail">
+						<span class="title">Size:</span>
+						<span class="value">COMPANY SIZE RANGE</span>
+					</div>
+					<div class="detail">
+						<span class="title">Founded:</span>
+						<span class="value">COMPANY FOUNDING YEAR</span>
+					</div>
+					<div class="detail">
+						<span class="title">Tech Stack:</span>
+						<span class="value">COMPANY TECH STACK</span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<img class="content-divider" src="../images/background.svg" alt="">
+
+		<div class="company-info">
+			<div class="col-md-8 offset-md-2">
+
+        <!-- UPDATE THIS SECTION WITH COMPANY MISSION
+        IF ITS NOT APPLICABLE DELETE THE "SECTION" DIV (NEXT 6 LINES)  -->
+				<div class="section">
+					<div class="header">Our Mission</div>
+					<div class="text">
+						MISSION TEXT GOES HERE
+					</div>
+				</div>
+
+        <!-- UPDATE THIS SECTION WITH COMPANY STORY
+        IF ITS NOT APPLICABLE DELETE THE "SECTION" DIV (NEXT 6 LINES)  -->
+				<div class="section">
+					<div class="header">Our Story</div>
+					<div class="text">
+						STORY TEXT GOES HERE
+					</div>
+        </div>
+        
+        <!-- UPDATE THIS SECTION WITH COMPANY BENEFITS
+        IF ITS NOT APPLICABLE DELETE THE "SECTION" DIV (NEXT 6 LINES)  -->
+				<div class="section">
+					<div class="header">Benefits</div>
+					<div class="text">
+            <!-- IF MORE LINES ARE NEEDED COPY THE LINE BELOW AS MANY TIMES AS NEEDED  -->
+            <div><i class="fas fa-angle-right"></i> ADD</div>
+            <div><i class="fas fa-angle-right"></i> BENEFITS</div>
+            <div><i class="fas fa-angle-right"></i> HERE</div>
+					</div>
+        </div>
+        
+        <!-- UPDATE THIS SECTION WITH COMPANY BENEFITS
+        IF ITS NOT APPLICABLE DELETE THE "SECTION" DIV (NEXT 6 LINES)  -->
+				<div class="section">
+					<div class="header">Perks</div>
+					<div class="text">
+            <!-- IF MORE LINES ARE NEEDED COPY THE LINE BELOW AS MANY TIMES AS NEEDED  -->
+            <div><i class="fas fa-angle-right"></i> ADD</div>
+            <div><i class="fas fa-angle-right"></i> PERKS</div>
+            <div><i class="fas fa-angle-right"></i> HERE</div>
+					</div>
+				</div>
+
+				<div class="section">
+					<div class="contact">
+						<i class="fas fa-info-circle"></i> For more detailed information please contact us via email <i class="far fa-envelope"></i> at <a href="mailto:team@smithandkeller.com">team@smithandkeller.com</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
